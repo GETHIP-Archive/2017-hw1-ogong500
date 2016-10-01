@@ -1,6 +1,15 @@
+h1 {
+  font: 50px bold arial, sans-serif;
+  color: pink;
+}
+
+p {
+  color: blue;
+}
+
 body {
   padding: 5%;
-  background-color: #f3f3f3;
+  background-color: white;
 }
 
 .gradeBox {
